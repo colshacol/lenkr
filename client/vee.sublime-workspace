@@ -1,0 +1,749 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"button-hold",
+				"button-holder-1"
+			],
+			[
+				"button",
+				"button-holder-2"
+			],
+			[
+				"button-",
+				"button-holder-1"
+			],
+			[
+				"img-",
+				"img-holder-level-2"
+			],
+			[
+				"text",
+				"text-shadow"
+			],
+			[
+				"border",
+				"border-box"
+			],
+			[
+				"hire-me",
+				"hire-me-string"
+			],
+			[
+				"st",
+				"list-style"
+			],
+			[
+				"React",
+				"React.Component	Component Template (ES2015)"
+			],
+			[
+				"log",
+				"log	console"
+			],
+			[
+				"encodeURI",
+				"encodeURIComponent(URI)	Window"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/shane/code/v/vee/src/styles/master.styl",
+			"settings":
+			{
+				"buffer_size": 327,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/gocode/colshacol/hey/hey.go",
+			"settings":
+			{
+				"buffer_size": 546,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/shane/code/v/vee/src/styles/variables.styl",
+			"settings":
+			{
+				"buffer_size": 323,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/shane/code/v/vee/src/pages/Profile.vue",
+			"settings":
+			{
+				"buffer_size": 937,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/shane/code/v/vee/src/pages/Dash.vue",
+			"settings":
+			{
+				"buffer_size": 2065,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 342.0,
+		"last_filter": "lo",
+		"selected_items":
+		[
+			[
+				"lo",
+				"LoremIpsum: (5) a bit"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"lor",
+				"LoremIpsum: (5) a bit"
+			],
+			[
+				"tab",
+				"tabr: Create Tab Order"
+			],
+			[
+				"tabr",
+				"tabr: Exit Tab Order"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instl",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ter",
+				"Terminality: Browse Commands..."
+			],
+			[
+				"term",
+				"Terminality: Browse Commands..."
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"lint",
+				"ESLint"
+			],
+			[
+				"jsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"js",
+				"Set Syntax: React JSX"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"l",
+				"LoremIpsum: (15) some"
+			],
+			[
+				"ips",
+				"LoremIpsum: (30) lots"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"hipster",
+				"Hipster Ipsum: Occupy"
+			],
+			[
+				"hip",
+				"Hipster Ipsum: Occupy"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"termin",
+				"Terminal: Open"
+			],
+			[
+				"sideba",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/shane/code/v/vee/src",
+		"/home/shane/code/v/vee/src/styles"
+	],
+	"file_history":
+	[
+		"/home/shane/code/v/vee/src/pages/Home.vue",
+		"/home/shane/code/v/vee/src/main.js",
+		"/home/shane/code/v/vee/src/App.vue",
+		"/home/shane/code/v/vee/src/styles/utilities.styl",
+		"/home/shane/code/v/vee/src/styles/type.styl",
+		"/home/shane/code/v/vee/src/styles/base.styl",
+		"/home/shane/code/v/vee/src/styles/etc.styl",
+		"/home/shane/code/v/vee/src/pages/Profile.vue",
+		"/home/shane/code/v/vee/index.html",
+		"/home/shane/code/v/vee/src/styles/variables.styl",
+		"/home/shane/code/v/vee/src/styles/grid.styl",
+		"/home/shane/code/v/vee/src/styles/reset.styl",
+		"/home/shane/code/v/vee/src/styles/screens.styl",
+		"/home/shane/code/v/vee/static/box-grid.css",
+		"/home/shane/code/v/vee/static/box-grid.js",
+		"/home/shane/code/v/vee/pug-cs-styl.vue",
+		"/home/shane/code/v/vee/src/pages/components/Foot.vue",
+		"/home/shane/Desktop/ghost_r.jpg",
+		"/home/shane/code/v/vee/src/components/VoHead.vue",
+		"/home/shane/code/v/vee/src/pages/About.vue",
+		"/home/shane/code/v/vee/.babelrc",
+		"/home/shane/code/v/lenkr/client/src/.babelrc",
+		"/home/shane/code/v/lenkr/client/src/pages/About.vue",
+		"/home/shane/code/v/lenkr/client/index.html",
+		"/home/shane/code/v/lenkr-server/server.js",
+		"/home/shane/code/v/lenkr-server/mongoose.js",
+		"/home/shane/code/v/lenkr/src/components/Foot.vue",
+		"/home/shane/code/node/lenkr/client/scripts/components/Navbar.js",
+		"/home/shane/code/node/lenkr/client/scripts/entry.js",
+		"/home/shane/code/node/lenkr/client/scripts/stores/Project.js",
+		"/home/shane/code/node/lenkr/client/scripts/pages/About.js",
+		"/home/shane/code/node/lenkr/build/index.html",
+		"/home/shane/code/node/lenkr/build/assets/box-grid.js",
+		"/home/shane/code/node/lenkr/client/index.html",
+		"/home/shane/code/node/lenkr/client/scripts/pages/Home.js",
+		"/home/shane/code/node/lenkr/client/scripts/components/Header.js",
+		"/home/shane/code/node/lenkr/webpack.config.js",
+		"/home/shane/code/node/lenkr/client/scripts/components/Layout.js",
+		"/home/shane/code/node/lenkr/client/scripts/entry.jsx",
+		"/home/shane/code/node/lenkr/client/scripts/stores/Projects.jsx",
+		"/home/shane/code/node/lenkr/client/scripts/base.jsx",
+		"/home/shane/code/node/lenkr/build/two.bundle.js",
+		"/home/shane/code/node/lenkr/client/scripts/base2.jsx",
+		"/home/shane/code/node/lenkr/client/scripts/pages/Home.jsx",
+		"/home/shane/code/node/lenkr/client/scripts/pages/Contact.jsx",
+		"/home/shane/code/node/lenkr/client/scripts/pages/About.jsx",
+		"/home/shane/code/node/lenkr/client/scripts/components/Header.jsx",
+		"/home/shane/code/node/lenkr/client/scripts/components/Footer.jsx",
+		"/home/shane/code/node/lenkr/build/main.js",
+		"/home/shane/code/node/lenkr/client/scripts/components/Layout.jsx",
+		"/home/shane/code/node/lenkr/package.json",
+		"/home/shane/code/node/lenkr/client/scripts/pre.jsx",
+		"/home/shane/code/node/lenkr/client/scripts/components/Navbar.jsx",
+		"/home/shane/code/node/lenkr/client/scripts/post.jsx",
+		"/home/shane/code/node/lenkr/gulpfile.js",
+		"/home/shane/code/node/lenkr/client/compilation.js",
+		"/home/shane/code/node/lenkr/client/scripts/stores/ThisStore.jsx",
+		"/home/shane/code/node/lenkr/client/assets/events-emitter.js",
+		"/home/shane/.config/sublime-text-3/Packages/GoSublime/USAGE.md",
+		"/home/shane/code/node/lenkr/client/styles/components/Header.styl",
+		"/home/shane/code/node/lenkr/client/styles/components/Navbar.styl",
+		"/home/shane/code/node/lenkr/client/styles/etc.styl",
+		"/home/shane/code/node/lenkr/client/scripts/pages/Layout.jsx",
+		"/home/shane/code/node/lenkr/client/styles/master.styl",
+		"/home/shane/code/node/lenkr/client/styles/screens.styl",
+		"/home/shane/code/node/lenkr/client/styles/variables.styl",
+		"/home/shane/code/node/lenkr/client/styles/components/Footer.styl",
+		"/home/shane/code/node/lenkr/client/styles/pages/Home.styl",
+		"/home/shane/code/node/lenkr/client/assets/box-grid.css",
+		"/home/shane/code/node/lenkr/client/styles/type.styl",
+		"/home/shane/code/node/lenkr/client/styles/reset.styl",
+		"/home/shane/code/node/lenkr/client/styles/buttons.styl",
+		"/home/shane/code/node/lenkr/client/assets/box-grid.js",
+		"/home/shane/code/node/lenkr/client/assets/box-grid.styl",
+		"/home/shane/code/node/lenkr/client/compilation.css",
+		"/home/shane/code/node/lenkr/client/styles/reset.css",
+		"/home/shane/code/node/lenkr/client/scripts/components/Navigation.jsx",
+		"/home/shane/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/shane/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/shane/code/node/lenkr/client/scripts/master.jsx",
+		"/home/shane/code/node/lenkr/client/scripts/components/Logo.jsx",
+		"/home/shane/code/portfolio/dist/css/base.css",
+		"/home/shane/code/node/lenkr/client/scripts/components/Test.jsx",
+		"/home/shane/code/node/lenkr/client/scripts/components/Thing.js",
+		"/home/shane/code/node/lenkr/client/scripts/master.js",
+		"/home/shane/code/node/lenkr/server/server.js",
+		"/home/shane/code/node/lenkr/client/styles/main-styles.styl",
+		"/home/shane/code/node/lenkr/.babelrc",
+		"/home/shane/code/node/lenkr/client/styles/forms.styl",
+		"/home/shane/code/node/lenkr/client/styles/dog.styl",
+		"/home/shane/code/node/lenkr/server/npm-debug.log",
+		"/gocode/colshacol/hey/hey.go",
+		"/home/shane/.config/sublime-text-3/Packages/GoSublime/CHANGELOG.md",
+		"/home/shane/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/shane/code/r/package.json",
+		"/home/shane/code/r/app/index.html",
+		"/home/shane/code/r/webpack.config.js",
+		"/home/shane/code/r/.babelrc",
+		"/home/shane/code/r/app/js/main.js",
+		"/home/shane/code/r/bundle.js",
+		"/home/shane/code/r/app/js/app.comp.js",
+		"/home/shane/code/r/app/bundle.js",
+		"/home/shane/code/r/inx.js",
+		"/home/shane/code/r/in.js",
+		"/home/shane/code/gg/react-es6-webpack-boilerplate/scripts/App.js",
+		"/home/shane/code/g/package.json"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"id",
+			";\n",
+			"#login-form",
+			"#container",
+			"level-2",
+			"level-1",
+			"1.5",
+			"48",
+			"\")\n",
+			"				width: 50%;",
+			"50",
+			"$",
+			"HomeHead",
+			"form",
+			"routeMe",
+			"z-in",
+			"2",
+			"h5",
+			"h3",
+			"$blue",
+			"15",
+			"75",
+			"10",
+			"75",
+			"white",
+			"5",
+			"300",
+			"400",
+			"({\n",
+			"Apprddddd",
+			"VHead",
+			"v-head",
+			"data-x",
+			"Home",
+			"alert",
+			"';\n",
+			"class",
+			"Home",
+			"class",
+			".jsx",
+			"PATH",
+			"path",
+			"PATH",
+			"webpack",
+			"Header",
+			"webpack",
+			"WEBPACK",
+			"ThisStore",
+			"store",
+			"111",
+			"em",
+			"text",
+			"4",
+			"3",
+			"h2",
+			"hire",
+			"font-weight:",
+			"1",
+			"button",
+			"text",
+			"div",
+			"nav",
+			"x-wide",
+			"widths-are",
+			"side",
+			"\\",
+			"about",
+			"home",
+			"LAYOUT",
+			"Layout",
+			"LAYOUT",
+			"Route",
+			"Layout",
+			"LAYOUT",
+			"Layout",
+			"require('react-router')",
+			"var",
+			"blue",
+			"chaTit",
+			"LAYOUT",
+			"Layout",
+			"LAYOUT",
+			"Layout",
+			"LAYOUT",
+			".js",
+			"jsStart",
+			"\n		",
+			"render( ) {\n",
+			"( ) {",
+			"props",
+			"upe",
+			");\n",
+			"super( );",
+			"( )",
+			");\n",
+			"super( );",
+			"( )",
+			"props",
+			"jsDir",
+			"stylusDir",
+			"_data",
+			"_gulp",
+			"GULP",
+			"str",
+			"Name",
+			"Object.defineProperty(e"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/shane/code/v/vee/src/styles/master.styl",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 327,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								73,
+								73
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Agila Dracula.tmTheme",
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/Stylus/Stylus.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/gocode/colshacol/hey/hey.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 546,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/Go/Go.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/shane/code/v/vee/src/styles/variables.styl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 323,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								75,
+								75
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Agila Dracula.tmTheme",
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/Stylus/Stylus.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/shane/code/v/vee/src/pages/Profile.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 937,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								433,
+								433
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 256.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "/home/shane/code/v/vee/src/pages/Dash.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2065,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1972,
+								1972
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2205.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.3682235196,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.MarGo-output":
+	{
+		"height": 152.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 158.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "vee.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 161.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

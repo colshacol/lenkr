@@ -1,0 +1,69 @@
+
+///////////////////////////
+// ON SCREENS UNDER 769PX
+///////////////////////////
+
+@media screen and (max-width: 768px) {
+	#header-box-one {
+		padding-top: 55px;
+	}
+
+	.hire-me-string, nav ul {
+		display: none !important;
+	}
+	
+	.hire-me-string_small-sub, #compressed-nav-icon {
+		display: inline;
+	}
+	
+	footer {
+		flex-direction: column;
+		& #footer-copyright {
+			margin-top: 50px;
+			text-align: center;
+		}
+		
+		& #footer-social {
+			display: flex;
+			justify-content: space-around;
+		}
+	}
+}
+
+
+///////////////////////////
+// ON SCREENS OVER 768PX
+///////////////////////////
+
+@media screen and (min-width: 769px) {
+	.hire-me-string_small-sub {
+		display: none;
+	}
+	
+	#footer-social {
+		display: block;
+		& img {
+			margin-right: 20%;
+		}
+	}
+}
+
+
+///////////////////////////
+// ON SCREENS UNDER 992PX
+//////////////////////////
+
+@media screen and (max-width: 991px) {
+	
+}
+
+////////////////////////////
+// ON SCREENS OVER 991PX
+////////////////////////////
+
+@media screen and (min-width: 992px) {
+	// #home-content-one div:nth-of-type(2) {
+	// 	margin-right: auto;
+	// 	margin-left: 0;
+	// }
+}
